@@ -19,7 +19,7 @@ It is completely responsive website, to provide smooth experience...😎
 
 ## 🚩 Front LOOk of Main Page:
 
-![Front View](https://github.com/The-Shivam-garg/CollegeCommunity-Website/blob/b0c5dfa4491bcdd35e8d286680b7203a0e284f16/images/front.png)
+![Front View](https://github.com/The-Shivam-garg/SideHustlers-Community-Website/blob/a2cffd54fa25599c475805ecce1b7c06b721320b/images/front.png)
 ![Event Page Front View](https://github.com/The-Shivam-garg/CollegeCommunity-Website/blob/b0c5dfa4491bcdd35e8d286680b7203a0e284f16/images/back13.jpg)
 
 
